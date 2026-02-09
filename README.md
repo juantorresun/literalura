@@ -26,7 +26,7 @@ La aplicación ofrece un menú interactivo con las siguientes opciones:
 5. **Listar libros por idioma**
    - Permite buscar libros por idioma (`es`, `en`, `fr`, etc.)
 
-0. ❌ **Salir del programa**
+0. **Salir del programa**
 
 ---
 
@@ -41,7 +41,4 @@ La aplicación ofrece un menú interactivo con las siguientes opciones:
 - **API Gutendex**
 - **Maven**
 
----
-
-## 🧩 Estructura del proyecto
 
